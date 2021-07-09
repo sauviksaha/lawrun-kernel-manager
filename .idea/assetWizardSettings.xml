@@ -30,8 +30,8 @@
                           <map>
                             <entry key="assetSourceType" value="FILE" />
                             <entry key="color" value="e20047" />
-                            <entry key="outputName" value="ic_heart" />
-                            <entry key="sourceFile" value="C:\Users\Administrator\Desktop\heart.svg" />
+                            <entry key="outputName" value="heart" />
+                            <entry key="sourceFile" value="C:\Users\Administrator\Desktop\iconmonstr-favorite-7.svg" />
                           </map>
                         </option>
                       </PersistentState>
