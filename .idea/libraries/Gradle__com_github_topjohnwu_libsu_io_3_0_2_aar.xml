@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.topjohnwu.libsu:io:3.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/216f2a79a21180cc0633232f33b9de5d/jetified-io-3.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d5e58c144cf207b5145ebec251fed476/jetified-io-3.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d5e58c144cf207b5145ebec251fed476/jetified-io-3.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d5e58c144cf207b5145ebec251fed476/jetified-io-3.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.topjohnwu.libsu/io/3.0.2/fa0cc5d39e9a38b45cbcc0b4d4e9e5f3f7c95b61/io-3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
